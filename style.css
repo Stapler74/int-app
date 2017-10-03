@@ -12,7 +12,8 @@
    
 }
 
-ul { display: inline-block;
+ul { 
+    display: inline-block;
     margin: 0;
     float: none;
     list-style-type: none;
